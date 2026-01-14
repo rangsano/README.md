@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.vscode/
-*.log
-combined_output.json
